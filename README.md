@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello 👋🏼
+
+I'm an undergraduate at New York University's Stern School of Business majoring in Finance/Statistics and minoring in Data Science.
+
+My current interests are in algorithmic trading and machine learning. I'm currently working on a project that predicts engagement on YouTube trending videos based on statistics extracted using YouTube's API
+
+You can learn more about me at: https://nickrwu.studio/
+
 
 <!--
 **nickrwu/nickrwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
