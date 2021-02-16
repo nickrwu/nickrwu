@@ -1,8 +1,8 @@
 ### Hello 👋🏼
 
-I'm an undergraduate at New York University's Stern School of Business majoring in Finance/Statistics and minoring in Data Science.
+I'm an undergraduate at New York University's Stern School of Business co-concentrating in Finance/Statistics and minoring in Data Science.
 
-My current interests are in algorithmic trading and machine learning. I'm currently working on a project that predicts engagement on YouTube trending videos based on statistics extracted using YouTube's API
+My current interests are in algorithmic trading, quantitative research, and machine learning. I'm currently working on a mean reversion algorithmic trading project.
 
 You can learn more about me at: https://nickrwu.studio/
 
