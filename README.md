@@ -4,7 +4,7 @@ I'm an undergraduate at New York University's Stern School of Business co-concen
 
 My current interests are in algorithmic trading, quantitative research, and machine learning. I'm currently working on a mean reversion algorithmic trading project.
 
-You can learn more about me at: https://nickrwu.studio/
+You can learn more about me at: https://nickrwu.me/
 
 
 <!--
