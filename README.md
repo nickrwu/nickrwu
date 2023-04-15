@@ -1,6 +1,6 @@
 ### Hello 👋🏼
 
-I'm an undergraduate at New York University's Stern School of Business co-concentrating in Finance & Statistics and Double Majoring in Computer Science.
+I'm an undergraduate at New York University's Stern School of Business studying Computer Science and Finance.
 
 My current interests are in algorithmic trading, quantitative research, and machine learning. I'm currently working on a mean reversion algorithmic trading project.
 
