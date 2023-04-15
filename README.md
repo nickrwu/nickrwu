@@ -2,7 +2,7 @@
 
 I'm an undergraduate at New York University's Stern School of Business studying Computer Science and Finance.
 
-My current interests are in algorithmic trading, quantitative research, and machine learning. I'm currently working on a mean reversion algorithmic trading project.
+Pursuing a career in Product Management. Skilled in problem solving, data analysis, and project management. Passionate about building products and developing business strategies.
 
 You can learn more about me at: https://nickrwu.me/
 
